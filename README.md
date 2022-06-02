@@ -6,7 +6,6 @@ A Java Birthdays counter
 
 //import birthday class in your project
 
-### the do this
 String myBirthday = "30-06-19960";
 
 Birthday Bd = new Birthday(myBirthday);
