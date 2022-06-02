@@ -83,6 +83,8 @@ public class Birthday {
         }
     }
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Bday Bd = new Bday();
+        Bd.setVisible(true);
+        Bd.pack();
     }
 }
