@@ -1,5 +1,5 @@
-# Birthday
-A Java Birthdays counter
+
+##A Java Birthdays counter
 
 
 ### Uses
