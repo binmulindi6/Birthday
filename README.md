@@ -1,13 +1,13 @@
-# Birthday
-A Java Birthdays counter
+
+##A Java Birthdays counter
 
 
 ### Uses
 
 //import birthday class in your project
 
-### the do this
 String myBirthday = "30-06-19960";
+
 Birthday Bd = new Birthday(myBirthday);
 
 
